@@ -1,4 +1,7 @@
-# test coverage for  [facebook-chat-api (v1.3.0)](https://github.com/Schmavery/facebook-chat-api#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-facebook-chat-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-facebook-chat-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-facebook-chat-api.svg)](https://travis-ci.org/npmtest/node-npmtest-facebook-chat-api)
+# npmtest-facebook-chat-api
+
+#### test coverage for  [facebook-chat-api (v1.3.0)](https://github.com/Schmavery/facebook-chat-api#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-facebook-chat-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-facebook-chat-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-facebook-chat-api.svg)](https://travis-ci.org/npmtest/node-npmtest-facebook-chat-api)
+
 #### Facebook chat API that doesn't rely on XMPP.  Will NOT be deprecated April 30th 2015.
 
 [![NPM](https://nodei.co/npm/facebook-chat-api.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/facebook-chat-api)
