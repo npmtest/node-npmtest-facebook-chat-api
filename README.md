@@ -1,6 +1,6 @@
 # npmtest-facebook-chat-api
 
-#### test coverage for  [facebook-chat-api (v1.3.0)](https://github.com/Schmavery/facebook-chat-api#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-facebook-chat-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-facebook-chat-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-facebook-chat-api.svg)](https://travis-ci.org/npmtest/node-npmtest-facebook-chat-api)
+#### basic test coverage for  [facebook-chat-api (v1.3.0)](https://github.com/Schmavery/facebook-chat-api#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-facebook-chat-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-facebook-chat-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-facebook-chat-api.svg)](https://travis-ci.org/npmtest/node-npmtest-facebook-chat-api)
 
 #### Facebook chat API that doesn't rely on XMPP.  Will NOT be deprecated April 30th 2015.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-facebook-chat-api/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-facebook-chat-api/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-facebook-chat-api/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-facebook-chat-api/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-facebook-chat-api/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-facebook-chat-api/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-facebook-chat-api/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-facebook-chat-api/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-facebook-chat-api/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-facebook-chat-api/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-facebook-chat-api/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-facebook-chat-api/build/coverage.html/index.html)
 
@@ -82,7 +82,8 @@
         "start": "node server.js",
         "test": "mocha"
     },
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
